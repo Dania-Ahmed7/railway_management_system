@@ -10,3 +10,6 @@ This repository contains code for a railway management system that has the follo
 •	Cancel a booking
 
 •	Check status of booked ticket-along with other details
+
+Technology used to develop the management system:
+PHP, SQL, HTML, CSS

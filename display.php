@@ -1,9 +1,9 @@
 <?php
  // Set the database credentials
-$db_host = 'localhost';
-$db_user = 'id20080104_dania_railway_ms';
-$db_password = 'BirdsBeBlue?010';
-$db_name = 'id20080104_dania_railwaydb';
+$db_host = '';
+$db_user = '';
+$db_password = '';
+$db_name = '';
 
 // Connect to the database
 $conn = mysqli_connect($db_host, $db_user, $db_password, $db_name);

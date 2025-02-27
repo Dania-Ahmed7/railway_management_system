@@ -1,8 +1,9 @@
 <?php
-$dbServerName="localhost";
-$db_user="id20080104_dania_railway_ms";
-$db_pass= "BirdsBeBlue?010";
-$db_name='id20080104_dania_railwaydb';
+$dbServerName="";
+$db_user="";
+$db_pass= "";
+$db_name='';
+
 
 $conn=mysqli_connect($dbServerName,$db_user,
 $db_pass, 
